@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spingboot-webSocket.iml" filepath="$PROJECT_DIR$/spingboot-webSocket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-webSocket/spring-webSocket.iml" filepath="$PROJECT_DIR$/spring-webSocket/spring-webSocket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tomcat-webSocket/tomcat-webSocket.iml" filepath="$PROJECT_DIR$/tomcat-webSocket/tomcat-webSocket.iml" />
+    </modules>
+  </component>
+</project>
